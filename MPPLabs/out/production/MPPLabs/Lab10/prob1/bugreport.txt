@@ -1,0 +1,24 @@
+Tom Jones
+	reportedBy: Corazza
+	classname: class jdk.proxy2.$Proxy1
+	description: computePerimeter incorrect
+	severity: 0
+
+	reportedBy: Corazza
+	classname: class jdk.proxy2.$Proxy1
+	description: 
+	severity: 1
+
+
+Joe Smith
+	reportedBy: Corazza
+	classname: class jdk.proxy2.$Proxy1
+	description: Should use Logger
+	severity: 1
+
+	reportedBy: Corazza
+	classname: class jdk.proxy2.$Proxy1
+	description: computePerimeter incorrect
+	severity: 2
+
+

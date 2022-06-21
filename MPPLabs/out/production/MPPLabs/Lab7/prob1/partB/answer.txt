@@ -1,0 +1,6 @@
+The problem in this code is that it does not override correct method for comparing the objects.
+The method signature used in Employee.java class has this signature "public boolean equals(Employee e)",
+which is incorrect and should use the correct form of equality comparison. Fix would be to use the correct
+method and that can be done by overridding this method,
+
+@Override public boolean equals(Object o)

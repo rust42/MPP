@@ -1,0 +1,7 @@
+HashMap is used to store the employees and Employee class is used as a key, which is not hash compliant. Thus, the Employee class should override hashCode method from Object class to fix the issue.
+
+@Override
+	public int hashCode() {
+		return Objects.hash(name, salary);
+	}
+

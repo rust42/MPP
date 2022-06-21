@@ -1,0 +1,1 @@
+The Employee class has a mutable setter to set the “visited” attribute. The attribute is set to false by default and when any item is found in the array, the attribute is set to true. This triggers the error since hashing uses all the attributes name, salary and visited.

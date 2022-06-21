@@ -1,0 +1,2 @@
+A. With the provided code, the return value of compare is zero, since it only compares two names which equal.
+The employee objects should be equal if and only if all the attributes in both the objects are equal.

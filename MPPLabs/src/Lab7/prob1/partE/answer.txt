@@ -1,0 +1,7 @@
+i. When the type D is a class and A, B, C are interfaces
+
+- If D is a class, the class must implement the method as abstract or add a concrete implantation for the method.
+
+ii. When the type D is an interface also
+
+- The type D must either override the default implementation of the method or make the method abstract.
